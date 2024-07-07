@@ -1,0 +1,44 @@
+[
+	{
+    "pt_pin": "jd_VLsQrynZdfaK",
+    "remarks": "小号",
+    "address": {
+      "receiver": "李木子",
+      "phone": "19863825907",
+      "province": "山东省",
+      "city": "临沂市",
+      "county": "平邑县",
+      "address": "郑城镇上土桥村",
+      "postalCode": "371326",
+      "areaCode": "273312"
+    }
+  },
+  {
+    "pt_pin": "jd_kjdSvVoLKNxq",
+    "remarks": "大号",
+    "address": {
+      "receiver": "李常龙",
+      "phone": "19863825907",
+      "province": "山东省",
+      "city": "临沂市",
+      "county": "平邑县",
+      "address": "郑城镇上土桥村",
+      "postalCode": "371326",
+      "areaCode": "273312"
+    }
+  },
+  {
+    "pt_pin": "jd_4b617216360f2",
+    "remarks": "大号",
+    "address": {
+      "receiver": "李常花",
+      "phone": "17686680117",
+      "province": "山东省",
+      "city": "济南市",
+      "county": "历城区",
+      "address": "鲍山街道济钢新村西区11号楼1单元602门口",
+      "postalCode": "370112",
+      "areaCode": "250132"
+    }
+  }
+]
